@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fullPoster"
+        android:title="Movie Poster" />
+    <item
+        android:id="@+id/wikipediaPage"
+        android:title="Wikipedia Page" />
+    <item
+        android:id="@+id/streamingServices"
+        android:title="Streaming Services" />
+</menu>

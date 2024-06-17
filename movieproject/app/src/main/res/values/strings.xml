@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">movieproject</string>
+
+    <string name="movie1title">The Shawshank Redemption</string>
+    <string name="movie2title">The Godfather</string>
+    <string name="movie3title">The Dark Knight</string>
+    <string name="movie4title">The Godfather Part II</string>
+    <string name="movie5title">12 Angry Men</string>
+    <string name="movie6title">Schindler\'s List</string>
+    <string name="movie7title">The Lord of the Rings: The Return of the King</string>
+    <string name="movie8title">Pulp Fiction</string>
+
+    <string name="movie1actors">Tim Robbins, Morgan Freeman, Bob Gunton</string>
+    <string name="movie2actors">Marlon Brando, Al Pacino, James Caan</string>
+    <string name="movie3actors">Christian Bale, Heath Ledger, Aaron Eckhart</string>
+    <string name="movie4actors">Al Pacino, Robert De Niro, Robert Duvall</string>
+    <string name="movie5actors">Henry Fonda, Lee J. Cobb, Martin Balsam</string>
+    <string name="movie6actors">Liam Neeson, Ralph Fiennes, Ben Kingsley</string>
+    <string name="movie7actors">Elijah Wood, Viggo Mortensen, Ian McKellen</string>
+    <string name="movie8actors">John Travolta, Uma Thurman, Samuel L. Jackson</string>
+
+    <string-array name="movieWebpage">
+        <item>https://www.imdb.com/title/tt0111161/</item>
+        <item>https://www.imdb.com/title/tt0068646/</item>
+        <item>https://www.imdb.com/title/tt0468569/</item>
+        <item>https://www.imdb.com/title/tt0071562/</item>
+        <item>https://www.imdb.com/title/tt0050083/</item>
+        <item>https://www.imdb.com/title/tt0108052/</item>
+        <item>https://www.imdb.com/title/tt0167260/</item>
+        <item>https://www.imdb.com/title/tt0110912/</item>
+    </string-array>
+
+    <string-array name="wikiLinks">
+        <item>https://en.wikipedia.org/wiki/The_Shawshank_Redemption</item>
+        <item>https://en.wikipedia.org/wiki/The_Godfather</item>
+        <item>https://en.wikipedia.org/wiki/The_Dark_Knight</item>
+        <item>https://en.wikipedia.org/wiki/The_Godfather_Part_II</item>
+        <item>https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)</item>
+        <item>https://en.wikipedia.org/wiki/Schindler%27s_List</item>
+        <item>https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King</item>
+        <item>https://en.wikipedia.org/wiki/Pulp_Fiction</item>
+    </string-array>
+
+    <string name="streaming1title">Amazon Prime Video</string>
+    <string name="streaming2title">YouTube</string>
+    <string name="streaming3title">Apple TV</string>
+
+    <string-array name="streamingWebpage1">
+        <item>https://shorturl.at/aeiU8</item>
+        <item>https://shorturl.at/aektE</item>
+        <item>https://shorturl.at/jPTX0</item>
+        <item>https://shorturl.at/hoEMX</item>
+        <item>https://shorturl.at/avMUW</item>
+        <item>https://rb.gy/dhqvi3</item>
+        <item>https://rb.gy/1a0lhi</item>
+        <item>https://rb.gy/opxjce</item>
+    </string-array>
+
+    <string-array name="streamingWebpage2">
+        <item>https://www.youtube.com/watch?v=19THOH_dvxg</item>
+        <item>https://www.youtube.com/watch?v=U8GdYixWfOc</item>
+        <item>https://www.youtube.com/watch?v=B9wbHZM-L8g</item>
+        <item>https://www.youtube.com/watch?v=XEmbFDXGzMg</item>
+        <item>https://www.youtube.com/watch?v=J61XJhYiUpg</item>
+        <item>https://www.youtube.com/watch?v=TEY0dQAF4k4</item>
+        <item>https://www.youtube.com/watch?v=JunaHeMCYno</item>
+        <item>https://www.youtube.com/watch?v=CulAEgzr7sE</item>
+    </string-array>
+
+    <string-array name="streamingWebpage3">
+        <item>https://rb.gy/2zf30d</item>
+        <item>https://rb.gy/wzu7o6</item>
+        <item>https://t.ly/ojLjb</item>
+        <item>https://shorturl.at/ltF13</item>
+        <item>https://shorturl.at/lsY29</item>
+        <item>https://shorturl.at/avIU6</item>
+        <item>https://shorturl.at/bkCLQ</item>
+        <item>https://t.ly/yczyN</item>
+    </string-array>
+
+</resources>
